@@ -1,0 +1,47 @@
+# Archivos de Blender temporales y de respaldo
+*.blend1
+*.blend2
+*.blend@
+
+# Archivos de caché
+*.pyc
+__pycache__/
+
+# Render caches y simulaciones
+cache/
+*.vdb
+*.bphys
+*.flm
+*.tmp
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de configuración local
+*.log
+*.lock
+*.bak
+*.swp
+
+# Archivos de exportación
+*.fbx
+*.obj
+*.mtl
+*.abc
+*.glb
+*.gltf
+
+# Render outputs
+*.png
+*.jpg
+*.exr
+*.tga
+*.mp4
+*.mov
+*.avi
+
+# Carpetas comunes de trabajo
+build/
+output/
+renders/
